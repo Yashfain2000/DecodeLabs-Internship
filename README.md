@@ -1,4 +1,4 @@
-# Sales Data Analysis in Microsoft Excel (Work in Progress)
+# Sales Data Analysis (Work in Progress)
 
 ## Overview
 
