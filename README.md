@@ -1,37 +1,84 @@
-# Sales Data Analysis (Work in Progress)
+# Sales Data Analysis
 
 ## Overview
 
-This repository contains my Excel projects completed during my Data Analyst Internship at DecodeLabs.
+This repository contains my projects completed during my Data Analyst Internship at DecodeLabs.
 
-The purpose of this project is to practice data cleaning, data analysis, and dashboard creation using Microsoft Excel while working with a real-world sales dataset.
+The projects focus on data cleaning, data analysis, SQL querying, and extracting meaningful business insights from a sales dataset.
 
-> 🚧 Project Status: In Progress
+🚧 Overall Internship Project Status: In Progress
 
 ---
 
-## Internship Tasks
+## Internship Projects
 
 ### Project 1 – Data Cleaning
-Completed
+
+✅ Completed
 
 Tasks performed:
+
 - Removed duplicate records
 - Checked for missing values
 - Standardized data formats
 - Prepared the dataset for analysis
 
-### Project 2 – Excel Data Analysis
-In Progress
+---
 
-Current work includes:
+### Project 2 – Excel Data Analysis
+
+✅ Completed
+
+Analysis performed:
+
 - Descriptive Statistics
 - Monthly Order & Revenue Analysis
 - Product-wise Sales Analysis
 - Payment Method Analysis
 - Referral Source Analysis
 - PivotTables & PivotCharts
+- Charts and visualizations
 - Dashboard Development
+- Analytical Thinking and Business Insights
+
+---
+
+### Project 3 – SQL Data Analysis
+
+✅ Completed
+
+The goal of this project was to use SQL queries to extract insights from the sales dataset.
+
+Analysis performed:
+
+- Total Number of Orders
+- Total Quantity Sold
+- Average Product Price
+- Orders by Product
+- Revenue by Product
+- Average Price by Product
+- Orders by Payment Method
+- Orders by Order Status
+- Highest-Priced Products
+- Delivered Orders by Product
+
+SQL concepts used:
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+
+---
+
+### Project 4 – Coming Soon
+
+🚧 In Progress
+
+This project is the remaining task of my internship and will be added to this repository once completed.
 
 ---
 
@@ -45,6 +92,8 @@ Current work includes:
 ## Tools Used
 
 - Microsoft Excel
+- MySQL
+- MySQL Workbench
 - PivotTables
 - PivotCharts
 - Charts
@@ -52,23 +101,42 @@ Current work includes:
 - SUMIFS
 - COUNTIFS
 - Descriptive Statistics
+- SQL Queries
 
 ---
 
-## Skills Being Developed
+## Skills Developed
 
 - Data Cleaning
 - Data Analysis
+- SQL Querying
 - Data Visualization
 - Dashboard Design
 - Analytical Thinking
 - Business Insights
+- Data Aggregation
+- Data Filtering
+- Data Grouping
 
 ---
 
-## Repository Status
+## Project Summary
 
-This repository will be updated regularly as I complete new internship tasks and add more analyses and dashboards.
+So far, these projects have provided hands-on experience in the basic data analysis workflow:
+
+1. Cleaning raw data
+2. Analyzing data using Excel
+3. Creating visualizations and dashboards
+4. Extracting insights using SQL
+5. Applying analytical thinking to business data
+
+One project remains to complete the internship project series.
+
+---
+
+## Internship
+
+Data Analyst Intern | DecodeLabs
 
 ---
 
@@ -76,10 +144,11 @@ This repository will be updated regularly as I complete new internship tasks and
 
 Muhammad Yashfain
 
-Data Analyst Intern | DecodeLabs
+### Currently Learning
 
-Currently learning:
 - Excel
 - SQL
 - Power BI
+- Python
+- Data Analytics
 - Python
