@@ -4,9 +4,9 @@
 
 This repository contains my projects completed during my Data Analyst Internship at DecodeLabs.
 
-The projects focus on data cleaning, data analysis, SQL querying, and extracting meaningful business insights from a sales dataset.
+The projects focus on data cleaning, Excel analysis, SQL querying, data visualization, and extracting meaningful business insights from a sales dataset.
 
-🚧 Overall Internship Project Status: In Progress
+✅ Overall Internship Project Status: Completed
 
 ---
 
@@ -74,11 +74,36 @@ SQL concepts used:
 
 ---
 
-### Project 4 – Coming Soon
+### Project 4 – Data Visualization
 
-🚧 In Progress
+✅ Completed
 
-This project is the remaining task of my internship and will be added to this repository once completed.
+The goal of this project was to create visual representations of data and communicate insights clearly.
+
+Visualizations created:
+
+- Monthly Revenue Trend – Line Chart
+- Revenue by Product – Bar Chart
+- Orders by Payment Method – Pie Chart
+- Orders by Order Status – Column Chart
+- Revenue by Referral Source – Column Chart
+
+Key insights:
+
+- June 2024 had the highest monthly orders (53) and revenue ($68,068.54).
+- Chair generated the highest total revenue ($195,620.11).
+- Printer had the highest number of orders (181).
+- Online was the most-used payment method (258 orders).
+- Cancelled orders were the highest order-status category (250).
+- Instagram had the highest referral order count (259) and revenue ($275,285.45).
+
+Key skills:
+
+- Data Visualization
+- Chart Selection
+- Data Storytelling
+- Business Insights
+- Analytical Thinking
 
 ---
 
@@ -112,6 +137,7 @@ This project is the remaining task of my internship and will be added to this re
 - SQL Querying
 - Data Visualization
 - Dashboard Design
+- Data Storytelling
 - Analytical Thinking
 - Business Insights
 - Data Aggregation
@@ -122,15 +148,16 @@ This project is the remaining task of my internship and will be added to this re
 
 ## Project Summary
 
-So far, these projects have provided hands-on experience in the basic data analysis workflow:
+These projects provided hands-on experience with the complete basic data analysis workflow:
 
 1. Cleaning raw data
 2. Analyzing data using Excel
-3. Creating visualizations and dashboards
+3. Creating dashboards and visualizations
 4. Extracting insights using SQL
-5. Applying analytical thinking to business data
+5. Creating charts to communicate findings
+6. Applying analytical thinking to business data
 
-One project remains to complete the internship project series.
+All four internship projects have been successfully completed.
 
 ---
 
@@ -148,7 +175,5 @@ Muhammad Yashfain
 
 - Excel
 - SQL
-- Power BI
 - Python
 - Data Analytics
-- Python
